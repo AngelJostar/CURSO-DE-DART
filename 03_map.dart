@@ -14,5 +14,7 @@ void main () {
   print(pokemon);
   
   print('Name: ${pokemon['name']}');
-  print('sprites')
+  print('Name ${pokemon['sprites'][2]}');
+
+
 }
